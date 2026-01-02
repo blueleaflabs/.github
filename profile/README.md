@@ -11,7 +11,7 @@ Repositories: https://github.com/blueleaflabs
 
 ## Activity snapshot
 
-| Repo | Total commits | Commits (last year) | Last commit | Stars |
+| Repo | Total commits | Commits (last year) | Last commit |
 |---|---:|---:|---:|---:|
 | [HeatShield](https://github.com/blueleaflabs/heatshield) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/heatshield/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/heatshield/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/heatshield) | 
 | [HydroPulse](https://github.com/blueleaflabs/hydropulse) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/hydropulse/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/hydropulse/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/hydropulse) | 
