@@ -6,6 +6,7 @@ This is my work on physics-based modeling, data pipelines, experimental prototyp
 
 More about me at: https://www.blueleaflabs.org  
 Repositories: https://github.com/blueleaflabs
+ORCID: https://orcid.org/0009-0005-7518-0805
 
 ---
 
@@ -29,7 +30,7 @@ Repositories: https://github.com/blueleaflabs
 **HydroPulse** — Multi-source hydroclimate baselines and anomaly scoring across space and time (built for “beyond threshold” drought / regime analysis).
 
 ### Computational + (early-stage) quantum methods
-**GradingMusic (QuantumMelody line of work)** — Feature extraction and evaluation of vocal performance; explores quantum-inspired representations alongside classical baselines.
+**GradingMusic (QuantumMelody line of work)** — Feature extraction and evaluation of vocal performance; explores quantum-inspired representations alongside classical baselines. I won first place at Synopsys 2025 in the Physical Sciences and Engineering category: https://www.science-fair.org/database/project_awards.php?school_year=2425&all&special_order. Preprint for this work is available at: https://doi.org/10.20944/preprints202509.0281.v1
 
 ### Competition / scenario modeling
 **MTFC Scenario** — Scenario-phase modeling code used for the Modeling the Future Challenge workflow.
