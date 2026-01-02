@@ -12,8 +12,6 @@ ORCID: https://orcid.org/0009-0005-7518-0805
 
 ## Activity snapshot
 
-## Activity snapshot
-
 | Repo | Total commits | Commits (last year) | Last commit | License |
 |---|---:|---:|---:|---:|
 | [HeatShield](https://github.com/blueleaflabs/heatshield) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/heatshield/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/heatshield/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/heatshield) | ![license](https://img.shields.io/github/license/blueleaflabs/heatshield) |
