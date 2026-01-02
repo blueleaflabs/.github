@@ -5,7 +5,7 @@ Blue Leaf Labs is my research initiative building reproducible, open-source work
 This is my work on physics-based modeling, data pipelines, experimental prototypes where applicable, and with luck, some clear, verifiable outputs!
 
 More about me at: https://www.blueleaflabs.org  
-Repositories: https://github.com/blueleaflabs
+Repositories: https://github.com/blueleaflabs  
 ORCID: https://orcid.org/0009-0005-7518-0805
 
 ---
