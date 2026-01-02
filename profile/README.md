@@ -12,12 +12,14 @@ ORCID: https://orcid.org/0009-0005-7518-0805
 
 ## Activity snapshot
 
-| Repo | Total commits | Commits (last year) | Last commit |
-|---|---:|---:|---:|
-| [HeatShield](https://github.com/blueleaflabs/heatshield) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/heatshield/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/heatshield/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/heatshield) | 
-| [HydroPulse](https://github.com/blueleaflabs/hydropulse) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/hydropulse/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/hydropulse/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/hydropulse) | 
-| [GradingMusic](https://github.com/blueleaflabs/gradingmusic) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/gradingmusic/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/gradingmusic/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/gradingmusic) | 
-| [MTFC Scenario](https://github.com/blueleaflabs/mtfc-scenario) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/mtfc-scenario/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/mtfc-scenario/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/mtfc-scenario) | 
+## Activity snapshot
+
+| Repo | Total commits | Commits (last year) | Last commit | License |
+|---|---:|---:|---:|---:|
+| [HeatShield](https://github.com/blueleaflabs/heatshield) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/heatshield/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/heatshield/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/heatshield) | ![license](https://img.shields.io/github/license/blueleaflabs/heatshield) |
+| [HydroPulse](https://github.com/blueleaflabs/hydropulse) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/hydropulse/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/hydropulse/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/hydropulse) | ![license](https://img.shields.io/github/license/blueleaflabs/hydropulse) |
+| [GradingMusic](https://github.com/blueleaflabs/gradingmusic) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/gradingmusic/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/gradingmusic/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/gradingmusic) | ![license](https://img.shields.io/github/license/blueleaflabs/gradingmusic) |
+| [MTFC Scenario](https://github.com/blueleaflabs/mtfc-scenario) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/mtfc-scenario/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/mtfc-scenario/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/mtfc-scenario) | ![license](https://img.shields.io/github/license/blueleaflabs/mtfc-scenario) |
 
 ---
 
