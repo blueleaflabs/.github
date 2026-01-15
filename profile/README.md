@@ -14,6 +14,7 @@ ORCID: https://orcid.org/0009-0005-7518-0805
 
 | Repo | Total commits | Commits (last year) | Last commit | License |
 |---|---:|---:|---:|---:|
+| [OsmoFlux](https://github.com/blueleaflabs/osmoflux) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/osmoflux/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/osmoflux/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/osmoflux) | ![license](https://img.shields.io/github/license/blueleaflabs/osmoflux) |
 | [HeatShield](https://github.com/blueleaflabs/heatshield) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/heatshield/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/heatshield/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/heatshield) | ![license](https://img.shields.io/github/license/blueleaflabs/heatshield) |
 | [HydroPulse](https://github.com/blueleaflabs/hydropulse) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/hydropulse/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/hydropulse/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/hydropulse) | ![license](https://img.shields.io/github/license/blueleaflabs/hydropulse) |
 | [QuantumMelody](https://github.com/blueleaflabs/quantummelody) | ![commits](https://img.shields.io/github/commit-activity/t/blueleaflabs/quantummelody/main) | ![commits/year](https://img.shields.io/github/commit-activity/y/blueleaflabs/quantummelody/main) | ![last](https://img.shields.io/github/last-commit/blueleaflabs/quantummelody) | ![license](https://img.shields.io/github/license/blueleaflabs/quantummelody) |
@@ -22,6 +23,9 @@ ORCID: https://orcid.org/0009-0005-7518-0805
 ---
 
 ## My experiments so far:
+
+### Osmotic power and desalination energy recovery
+**OsmoFlux** — Osmotic power optimization in desalination plants through physics based modeling, prototype construction and scenario based ROI analysis.
 
 ### Climate risk & environmental equity
 **HeatShield** — California-scale environmental exposure and vulnerability mapping (heat, PM2.5, smoke) with reproducible analysis notebooks.
